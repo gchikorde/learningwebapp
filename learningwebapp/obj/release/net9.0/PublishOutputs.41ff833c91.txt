@@ -1,0 +1,7 @@
+C:\Users\gchik\source\repos\tmp1\learningwebapp\bin\Publish\learningwebapp.exe
+C:\Users\gchik\source\repos\tmp1\learningwebapp\bin\Publish\appsettings.Development.json
+C:\Users\gchik\source\repos\tmp1\learningwebapp\bin\Publish\appsettings.json
+C:\Users\gchik\source\repos\tmp1\learningwebapp\bin\Publish\learningwebapp.dll
+C:\Users\gchik\source\repos\tmp1\learningwebapp\bin\Publish\learningwebapp.deps.json
+C:\Users\gchik\source\repos\tmp1\learningwebapp\bin\Publish\learningwebapp.runtimeconfig.json
+C:\Users\gchik\source\repos\tmp1\learningwebapp\bin\Publish\learningwebapp.pdb
